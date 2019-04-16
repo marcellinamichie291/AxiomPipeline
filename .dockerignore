@@ -1,0 +1,3 @@
+myapp-data/*
+pipeline-data/*
+zk-single-kafka-single/*
